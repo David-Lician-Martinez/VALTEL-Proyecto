@@ -30,4 +30,9 @@ Desarrollar un modelo de **Machine Learning explicable** que prediga el precio d
 ---
 
 ## 📁 Estructura del repositorio
-
+VALTEL-Proyecto/
+├── data/ # Datos utilizados (protegidos o sintéticos)
+├── notebooks/ # Notebook principal con la metodología completa
+├── presentation/ # Storytelling en formato .pptx o PDF
+├── img/ # Gráficos e imágenes usadas en la narrativa
+└── README.md # Este archivo
