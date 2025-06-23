@@ -36,3 +36,35 @@ VALTEL-Proyecto/
 ├── presentation/ # Storytelling en formato .pptx o PDF
 ├── img/ # Gráficos e imágenes usadas en la narrativa
 └── README.md # Este archivo
+
+
+
+---
+
+## 📄 Archivos clave
+
+- 📓 `notebooks/VALTEL_prediccion_precios.ipynb` – notebook con el desarrollo completo  
+- 🎯 `presentation/VALTEL_storytelling.pptx` – narrativa visual del proyecto
+
+---
+
+## 🤖 Herramientas utilizadas
+
+- Python (Pandas, Scikit-learn, XGBoost)  
+- Jupyter Notebook  
+- PowerPoint (para storytelling)  
+- GitHub (para versionado y publicación)
+
+---
+
+## 🧩 Próximos pasos
+
+- Subir una visualización interactiva (Plotly / Tableau / Power BI)  
+- Publicar resumen gráfico en LinkedIn  
+- Añadir mejoras al modelo y documentarlas
+
+---
+
+## 🧑‍💻 Autor
+
+**David Licián Martínez** – Data Scientist en formación con enfoque en comunicación efectiva de resultados técnicos.
